@@ -1,5 +1,7 @@
 # Python_bangtalgame
 
+### 방탈라이브러리를 이용하여 방탈출게임을 만들어보았다.
+
 ## <룸1>
 ![banbtal_start](https://user-images.githubusercontent.com/71535759/93693986-9b968380-fb41-11ea-81ce-5491476fed3e.PNG)
 
