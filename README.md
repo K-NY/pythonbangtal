@@ -1,6 +1,6 @@
 # Python_bangtalgame
 
-##<룸1>
+## <룸1>
 ![banbtal_start](https://user-images.githubusercontent.com/71535759/93693986-9b968380-fb41-11ea-81ce-5491476fed3e.PNG)
 
 룸1은 다음과 같은 방식으로 탈출하면 된다.  
@@ -8,7 +8,7 @@
 2.상자안에 열쇠로 문 열기  
 3.룸2로 이동  
 
-##<룸2>
+## <룸2>
 ![bangtal_room2](https://user-images.githubusercontent.com/71535759/93693992-bcf76f80-fb41-11ea-94cb-f9a3cce59da1.PNG)
 
 룸2는 다음과 같은 방식으로 탈출하면 된다.  
