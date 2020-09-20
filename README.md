@@ -18,4 +18,4 @@
 4.키패드 3번 정답: python  
 5.게임이 종료  
 
-[라이브러리다운주소](https://cafe.naver.com/bangtal)
+[bangtal 라이브러리다운주소](https://cafe.naver.com/bangtal)
